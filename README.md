@@ -1,5 +1,4 @@
-# Angularjs project template
-
+# ngAMD
 Project template and structure for angularjs project.
 
 ## Prerequisites
